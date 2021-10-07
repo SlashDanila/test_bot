@@ -1,0 +1,1 @@
+<p class="pd"><input type="checkbox" name="pd" value="ie"> Я принимаю соглашение на <br>обработку персональных данных</p>
